@@ -3,15 +3,12 @@
 Pagina statica pubblica che descrive come vengono calcolati i KPI e i premi
 mensili di Il Mannarino.
 
-Il sito viene pubblicato con GitHub Pages direttamente dalla root del branch
+Il sito viene pubblicato su dominio personalizzato direttamente dalla root del branch
 `main`:
 
 ```text
-https://pgfoodbrands-official.github.io/pgfb-kpi/
+https://kpi.ilmannarino.it
 ```
-
-Il dominio personalizzato `kpi.ilmannarino.it` e il relativo DNS sono lavoro
-separato e non sono ancora configurati.
 
 ## Provenienza
 
